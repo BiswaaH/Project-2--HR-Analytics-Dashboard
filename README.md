@@ -6,4 +6,5 @@ Tableau dashboard project of HR Analytics data, with project summary.
 
 HR Analytics Dashboard Project Summary.docx - Project summary report
 HR Analytics dashboard.twbx - Tableau packaged workbook
+
 ✅ Built with Tableau Desktop. Dataset is included inside the .twbx.
